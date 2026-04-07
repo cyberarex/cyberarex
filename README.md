@@ -7,7 +7,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I'm currently working on Building cybersecurity tools and learning advanced security testing techniques.
